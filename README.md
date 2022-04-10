@@ -60,7 +60,7 @@ What you will explore in this classification laboratory
 
 ## Demo
 
-![Example of Streamlit|635x380](data/example.gif)
+![Example of Streamlit|635x380](gif.gif)
 
 ## Installation
 You need these dependencies:
@@ -80,22 +80,3 @@ plotly 5.7.0
 pip install plotly
 ```
 
-```
-
-## Deployment
-
-**To deploy this project run**
-
-```
-  streamlit run clf.py
-```
-
-
-## Referencing websites
-
-Useful website links
-
-https://www.analyticsvidhya.com/
-https://towardsdatascience.com/
-https://medium.com/
-https://streamlit.io/
