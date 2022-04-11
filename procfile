@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run clf.py
+web: streamlit run clf.py
