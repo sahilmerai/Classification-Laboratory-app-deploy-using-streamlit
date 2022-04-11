@@ -1,1 +1,1 @@
-web: streamlit run clf.py --server.port 80 --server.headless true
+web: streamlit run clf.py --server.port 8080 --server.headless true
