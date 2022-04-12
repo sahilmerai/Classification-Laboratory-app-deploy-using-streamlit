@@ -6,5 +6,5 @@ seaborn
 matplotlib
 mlxtend
 plotly==5.7.0
-Pandas-Profiling==1.4.3
+Pandas-Profiling==3.1.0
 streamlit-pandas-profiling==0.1.3
