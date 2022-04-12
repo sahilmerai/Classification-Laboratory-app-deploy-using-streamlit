@@ -69,7 +69,7 @@ pip install streamlit
 ```
 Pandas profiling
 ```console
-pip install pandas-profiling[notebook][html]
+pip install pandas-profiling
 ```
 To install mlxtend, just execute
 ```console
